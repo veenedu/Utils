@@ -14,9 +14,7 @@ class Utils {
         return result;
     }
     
-    static aTestFn(){
-        return 1;
-    }
+    
 
     //this mathod check whether a value exists in array,
     //if property is passed then its assumed that array contains object
