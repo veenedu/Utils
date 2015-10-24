@@ -20,6 +20,5 @@
     "tests",
     "index.html",
     "index.js"
-  ],
-  "private": true  
+  ] 
 }
