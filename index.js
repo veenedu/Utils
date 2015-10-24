@@ -14,3 +14,16 @@ console.log(a);
 Utils.forTimes(5,function(i){
 	console.log(i);
 });
+
+
+var a= {
+	a:1,
+	b:2,
+	c:3
+};
+
+console.log('for each key')
+Utils.forEachKey(a,function(key,val){
+	console.log(key);
+	console.log(val);
+})
