@@ -14,6 +14,11 @@ class Utils {
         return result;
     }
     
+    //this is just a test function
+    //this will be removed in next commit
+    static foo(){
+        return "foo_1"
+    }
     
 
     //this mathod check whether a value exists in array,
