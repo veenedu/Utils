@@ -16,7 +16,7 @@ Utils.forTimes(5,function(i){
 });
 
 
-var a= {
+var a = {
 	a:1,
 	b:2,
 	c:3
