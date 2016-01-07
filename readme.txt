@@ -32,3 +32,11 @@ bower
 bower install veen.utils -g
 Bower is set, need to do nothing
 When you will push commits to github, it will result in updated files being served in "bower install" 
+
+A note on Bower
+------
+Bower clones a your git from github, keeping in mind ignore files
+
+when you re-install a package in another project 
+-ignored file will be removed automatically (a file that wasn't ignored previously)
+-changes made to any file will automatically get updated

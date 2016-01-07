@@ -14,11 +14,6 @@ var Utils = (function () {
         }
         return result;
     };
-    //this is just a test function
-    //this will be removed in next commit
-    Utils.foo = function () {
-        return "foo_1";
-    };
     //this mathod check whether a value exists in array,
     //if property is passed then its assumed that array contains object
     Utils.inArray = function (value, arr, prop) {
