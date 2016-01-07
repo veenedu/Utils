@@ -21,6 +21,7 @@
     "index.html",
     "index.js",
     "gulpfile.js",
-    "readme.txt"
+    "readme.txt",
+    "package.json"    
   ] 
 }
