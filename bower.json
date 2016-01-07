@@ -20,6 +20,7 @@
     "tests",
     "index.html",
     "index.js",
-    "gulpfile.js"
+    "gulpfile.js",
+    "readme.txt"
   ] 
 }
